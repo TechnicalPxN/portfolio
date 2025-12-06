@@ -8,9 +8,9 @@ AOS.init({
 // Initialize Typed.js with more options
 const typed = new Typed('.typed-text', {
     strings: [
-        'coding 💻',
+        'developer 💻',
         'making videos 🎥',
-        'teaching tech 👨‍🏫',
+        '.Net Developer 👨‍🏫',
         'building apps 📱'
     ],
     typeSpeed: 60,
